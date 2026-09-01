@@ -1,0 +1,10 @@
+{
+  "version": "1.4.1",
+  "released": "2026-09-01",
+  "requires": "5.8",
+  "tested": "6.6",
+  "requires_php": "7.2",
+  "download_url": "https://github.com/MainStreetAITeam/bluehenrycostcalc-releases/releases/download/v1.4.1/bluehenry-cost-calculator-1.4.1.zip",
+  "details_url": "https://github.com/MainStreetAITeam/bluehenrycostcalc",
+  "changelog_html": "<h4>1.4.1</h4><ul><li>The plugin now updates itself: WordPress checks the release manifest on GitHub and shows the standard update notice when a new version ships. Auto-updates can be enabled from the Plugins screen.</li></ul><h4>1.4.0</h4><ul><li>The Blue Henry results line states the monthly quantity (\"6 lbs in 1 lb bags\") so the total no longer reads as the price of a single bag.</li><li>The \"Shop wholesale\" button defaults to bluehenry.com/wholesale-ordering/.</li></ul>"
+}
