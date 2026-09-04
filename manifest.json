@@ -1,10 +1,10 @@
 {
-  "version": "1.5.0",
-  "released": "2026-09-03",
+  "version": "1.6.0",
+  "released": "2026-09-04",
   "requires": "5.8",
   "tested": "6.6",
   "requires_php": "7.2",
-  "download_url": "https://github.com/MainStreetAITeam/bluehenrycostcalc-releases/releases/download/v1.5.0/bluehenry-cost-calculator-1.5.0.zip",
+  "download_url": "https://github.com/MainStreetAITeam/bluehenrycostcalc-releases/releases/download/v1.6.0/bluehenry-cost-calculator-1.6.0.zip",
   "details_url": "https://github.com/MainStreetAITeam/bluehenrycostcalc",
-  "changelog_html": "<h4>1.5.0</h4><ul><li>Every price now comes from the 2026 Bulk Rates sheet instead of the Faire product export.</li><li>Bulk minimums apply to the whole order in any combination of fruit, as the rate sheet states, rather than to each fruit separately.</li><li>Adds the 60 lb and 360 lb price breaks, grapefruit whole as its own SKU, and a line naming the next price break.</li><li>Says bulk rather than wholesale throughout; the primary button reads &quot;Start a bulk order&quot;.</li></ul><h4>1.4.1</h4><ul><li>The plugin updates itself: WordPress checks the release manifest on GitHub and shows the standard update notice when a new version ships.</li></ul>"
+  "changelog_html": "<h4>1.6.0</h4><ul><li>Reclaimed staff time is the headline at every volume, instead of switching between dollars and hours.</li><li>The staff cost field defaults to a BLS-sourced $21 an hour and cites its source on the page.</li><li>Cost per garnish is now the lead statistic; &quot;cheaper per lb&quot; is replaced by garnishes currently cut by hand each month.</li><li>Both cards show a time line, and the in-house card notes the 7 to 10 day conditioning step.</li><li>Fixes the grapefruit yield ratio, which implied negative waste against USDA water content.</li></ul><h4>1.5.0</h4><ul><li>Pricing follows the 2026 Bulk Rates sheet, replacing figures taken from the Faire export.</li><li>Bulk minimums apply to the whole order in any combination of fruit, rather than per fruit.</li><li>Adds the 60 lb and 360 lb price breaks and grapefruit whole as its own SKU.</li></ul>"
 }
